@@ -1,0 +1,21 @@
+.touristcomp {
+  width: 100%;
+  background-color: skyblue;
+  border: solid 2px black;
+  padding: 5px;
+}
+h3 {
+  text-align: center;
+  width: 100%;
+}
+p {
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+img {
+  width: 100%;
+}
+.footertext {
+  background-color: palegreen;
+}
